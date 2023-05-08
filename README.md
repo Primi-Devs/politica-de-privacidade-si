@@ -1,5 +1,4 @@
-# politica-de-privacidade-si
-política de Privacidade
+# Política de Privacidade
 
 Introdução
 
